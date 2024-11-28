@@ -6,7 +6,7 @@
  <p>A quick preview of the Spotify Clone interface with music data fetched in real time from the API.</p>
 
 
-https://github.com/user-attachments/assets/29059e2f-aea8-46b4-8bc6-ca0c030d4cd7
+https://github.com/user-attachments/assets/85b836ad-4c6c-41e6-bac5-28a9892ef662
 
 
 <h2>🛠️ Technologies Used</h2>
